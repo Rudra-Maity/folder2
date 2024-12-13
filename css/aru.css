@@ -1,0 +1,6 @@
+:root{
+    --calar:black;
+}
+.tum{
+    background-color: var(--calar);
+}
