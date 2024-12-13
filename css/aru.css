@@ -1,6 +1,4 @@
 :root{
-    --calar:black;
-}
-.tum{
-    background-color: var(--calar);
+    --calar:white;
+    --bg-col:#5ccfe6;
 }
